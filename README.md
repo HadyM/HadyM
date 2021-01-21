@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![technology](https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg)
 <!--
 **HadyM/HadyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
