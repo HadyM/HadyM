@@ -11,7 +11,21 @@
 
 3.[Email](mailto:hadymohamed@pursuit.org)
 
-<img align="right" width="100" height="100" src="https://i.gifer.com/HaD1.mp4"> 
+
+<p align="center">
+  <img src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
+</p>
+
+
+
+### Fun fact about me:
+ 
+<strong><em>I love to cook so much that I did it professionally for a long time. My ultimate dream is to travel to every single country of the world to explore their different cultures and technique cooking styles. 
+I also like to play video games mostly mmorpg but I am willing to try anything at least once! My passion for gamming led me to that hardware aspect of technology where I learned to fix/build computers and consoles. This led me to coding which I am currently learning at Pursuit. I am open to learning as much as I can and look forward to collaborating on different projects.</em></strong>
+  
+
+
+
 
 
 <!--
