@@ -1,22 +1,31 @@
 # Hi there 👋🏼 Hola 👋🏼 مرحبا 👋🏼
 
+<a href="https://dev.to/hadym">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hady Mohamed's DEV Community Profile" height="300" width="1000">
+</a>
+
+---
+
 <p align="center">
   <img width="560" height="560" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
 </p>
 
+---
+
 ## Contact Information:
-1.[Follow Me On Twitter](https://twitter.com/Hady_Mohamed_87 "My Twitter Homepage")
+1. [Follow Me On Twitter](https://twitter.com/Hady_Mohamed_87 "My Twitter Homepage")
 
-2.[LinkedIn](https://www.linkedin.com/in/hady-mohamed-709307187/ "My LinkedIn Homepage")
+2. [LinkedIn](https://www.linkedin.com/in/hady-mohamed-709307187/ "My LinkedIn Homepage")
 
-3.[Email](mailto:hadymohamed@pursuit.org)
+3. [Email](mailto:hadymohamed@pursuit.org)
 
+---
 
 <p align="center">
   <img src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
 </p>
 
-
+---
 
 ### Fun fact about me:
  
