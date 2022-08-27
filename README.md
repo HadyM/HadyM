@@ -17,7 +17,7 @@
 
 2. [LinkedIn](https://www.linkedin.com/in/hady-mohamed-709307187/ "My LinkedIn Homepage")
 
-3. [Email](mailto:hadymohamed@pursuit.org)
+3. [Email](mailto:devhady87@gmail.com)
 
 ---
 
