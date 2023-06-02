@@ -1,4 +1,4 @@
-# Hi there 👋🏼 Hola 👋🏼 مرحبا 👋🏼
+# Hey there 👋🏼 Hola 👋🏼 مرحبا 👋🏼
 
 <a href="https://dev.to/hadym">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hady Mohamed's DEV Community Profile" height="300" width="1000">
