@@ -1,8 +1,10 @@
-# Hey there 👋🏼 Hola 👋🏼 مرحبا 👋🏼
-
-
+<div align="center">
+  <h1>Hey there 👋🏼 Hola 👋🏼 مرحبا 👋🏼</h1>
+</div>
 
 ---
+<br>
+
 <div>
   <p>
     <img align="left" width="360" height="300" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
@@ -36,6 +38,7 @@
 <br>
 <br>
 
+---
 <div align="center">
   <h3>Fun fact about me:</h3>
 </div>
