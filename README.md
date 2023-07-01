@@ -3,11 +3,14 @@
 
 
 ---
-
-<p align="left">
-  <img width="460" height="500" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
-  <img src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
-</p>
+<div>
+  <p align="left">
+    <img width="360" height="300" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
+  </p>
+  <p align="right">
+    <img width="360" height="300" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
+  </p>
+</div>
 
 ---
 
