@@ -7,8 +7,8 @@
 
 <div>
   <p>
-    <img align="left" width="360" height="300" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
-    <img align="right" width="360" height="300" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
+    <img align="left" width="300" height="300" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
+    <img align="right" width="300" height="300" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
   </p>
 </div>
 
@@ -35,6 +35,11 @@
   
 ---
 ---
+<br>
+<br>
+<div align="center">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ad8dd4424d6b250995569e?variant=dark" alt="roadmap.sh"/></a>
+</div>
 <br>
 <br>
 
