@@ -7,7 +7,7 @@
 
 <div>
   <p>
-    <img align="left" width="300" height="300" src="https://www.universal-rights.org/wp-content/uploads/2019/09/30212411048_2a1d7200e2_z-1.jpg">
+    <img align="left" width="300" height="300" src="https://github.com/HadyM/HadyM/assets/74887720/e10e89ad-326a-4985-9161-7115ac5821af">
     <img align="right" width="300" height="300" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
   </p>
 </div>
