@@ -8,30 +8,28 @@
 <div>
   <p>
     <img align="left" width="300" height="300" src="https://github.com/HadyM/HadyM/assets/74887720/e10e89ad-326a-4985-9161-7115ac5821af">
-    <img align="right" width="300" height="300" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
+    <img align="right" width="300" height="300" margin-right="10px" src="https://github.com/HadyM/Intro-to-Terminal/blob/main/Assets/NIbp.gif"  title="Github">
   </p>
 </div>
 
 ---
 ---
 
-## Contact Information:
-  <div>
-    <ol>
-      <li>
-        <a href="https://twitter.com/Hady_Mohamed_87">Twitter</a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/hady-mohamed-swe">LinkedIn</a>
-      </li>
-      <li>
-        <a href="mailto:devhady87@gmail.com">Email</a>
-      </li>
-      <li>
-        <a href="https://dev.to/hadym">DevTo Profile</a>
-      </li>
-  </ol>
-  </div>
+### Contact Information:
+
+<div>
+  <ol>
+    <li>
+      <a href="https://twitter.com/Hady_Mohamed_87">Twitter</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/hady-mohamed-swe">LinkedIn</a>
+    </li>
+    <li>
+      <a href="mailto:devhady87@gmail.com">Email</a>
+    </li>
+</ol>
+</div>
   
 ---
 ---
