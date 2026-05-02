@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hey There 
+# 👋🏼 Hey There | Hola | مرحبا
 
 Welcome to my GitHub! I'm **Hady Mohamed**, a Full Stack Software Engineer, Ruby on Rails contributor, and lifelong learner passionate about code, culture, and cuisine.
 
